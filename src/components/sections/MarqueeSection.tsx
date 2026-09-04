@@ -1,5 +1,5 @@
 import React, { useEffect, useState, useRef } from 'react';
-import { Terminal, Code, Cpu, Database, Flame, FileCode, Layers, GitBranch, TerminalSquare, Shield, Globe } from 'lucide-react';
+import { Terminal, Code, Cpu, Database, Flame, FileCode, Layers, TerminalSquare, Shield, Globe } from 'lucide-react';
 
 
 interface TechCardProps {
